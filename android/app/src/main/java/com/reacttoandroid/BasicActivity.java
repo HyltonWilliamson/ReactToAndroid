@@ -21,10 +21,6 @@ public class BasicActivity extends ReactActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_basic);
 
-
-        //endregion
-
-
     }
 
 }
