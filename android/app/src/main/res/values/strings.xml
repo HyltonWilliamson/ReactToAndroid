@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sample Activity</string>
+    <string name="title_activity_basic">Sample Activity</string>
+    <string name="name">Username</string>
+    <string name="title1">Title 1</string>
+    <string name="title2">Title 2</string>
+    <string name="buttonText">Begin</string>
+    <string name="sampletext">This is a sample of text.</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
