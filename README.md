@@ -4,7 +4,7 @@
  ### Create React Native Project
  Download and install React Native from here:
  [React Native · A framework for building native apps using React](https://reactnative.dev/)
- - Open command prompt to where youwant to create your react native project then type: "**npx react-native init ProjectName**"
+ - Open command prompt to where you want to create your react native project then type: "**npx react-native init ProjectName**"
 ## Android Stuido
  Download and install Android Studio from here:
  [Download Android Studio and SDK tools | Android Developers](https://developer.android.com/studio)
